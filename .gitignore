@@ -13,3 +13,8 @@ backend/pocketbase
 # OS files
 .DS_Store
 Thumbs.db
+
+# Other
+app.tar.gz
+prompts.html
+node_modules/
